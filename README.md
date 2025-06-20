@@ -19,13 +19,13 @@ This notebook covers the essential concepts of Python classes, including:
 You have 2 options:
 
 1. Use Google Colab 
-  - Open in Google Colab: Click the "Open in Colab" badge at the top of the notebook.
-    - You can also clink the link at the top of the readme  
-  - Run the Cells: To run the code, simply go through the notebook and execute each cell by pressing Shift + Enter.
-  - Experiment: You are encouraged to experiment with the code.
-    - Try changing the values, creating your own methods, or even making new classes from scratch!
+    - Open in Google Colab: Click the "Open in Colab" badge at the top of the notebook.
+      - You can also clink the link at the top of the readme  
+    - Run the Cells: To run the code, simply go through the notebook and execute each cell by pressing Shift + Enter.
+    - Experiment: You are encouraged to experiment with the code.
+      - Try changing the values, creating your own methods, or even making new classes from scratch!
 
  2. Clone the repo
-  - Navigate to the folder and make a venv
-  - Install all the requirements
-  - Open the notebook `classes.ipynb`
+    - Navigate to the folder and make a venv
+    - Install all the requirements
+    - Open the notebook `classes.ipynb`
